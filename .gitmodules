@@ -1,0 +1,36 @@
+[submodule "supervisor"]
+	path = supervisor
+	url = https://github.com/TrustKey/supervisor
+[submodule "modules/promise"]
+	path = node_modules/@trustkey/promise
+	url = https://github.com/TrustKey/promise
+[submodule "modules/trustkey_argon2d"]
+	path = node_modules/@trustkey/trustkey_argon2d
+	url = https://github.com/TrustKey/trustkey_argon2d
+[submodule "modules/algorithms"]
+	path = modules/@trustkey/
+	url = https://github.com/TrustKey/algorithms
+[submodule "modules/trustkey_first_perfect"]
+	path = node_modules/@trustkey/trustkey_first_perfect
+	url = https://github.com/TrustKey/trustkey_first_perfect
+[submodule "modules/http-server"]
+	path = node_modules/@trustkey/http-server
+	url = https://github.com/TrustKey/http-server
+[submodule "node_modules/@trustkey/algorithms"]
+	path = modules/algorithms
+	url = https://github.com/TrustKey/algorithms
+[submodule "node_modules/@trustkey/trustkey_first_perfect"]
+	path = modules/trustkey_first_perfect
+	url = https://github.com/TrustKey/trustkey_first_perfect
+[submodule "node_modules/@trustkey/trustkey_argon2d"]
+	path = modules/trustkey_argon2d
+	url = https://github.com/TrustKey/trustkey_argon2d
+[submodule "node_modules/@trustkey/promise"]
+	path = modules/promise
+	url = https://github.com/TrustKey/promise
+[submodule "node_modules/@trustkey/http-server"]
+	path = modules/http-server
+	url = https://github.com/TrustKey/http-server
+[submodule "node_modules/@trustkey/promise-http-api"]
+	path = modules/promise-http-api
+	url = https://github.com/TrustKey/promise-http-api
