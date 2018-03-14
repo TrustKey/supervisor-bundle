@@ -25,4 +25,3 @@ service ntp stop
 ntpd -gq
 service ntp start
 npm start
-bash
